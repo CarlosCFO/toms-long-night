@@ -2,10 +2,6 @@
 
 *A minimalist PICO-8 survival game where every stomp counts.*
 
-[![Play on itch.io](https://img.shields.io/badge/play-itch.io-FF4444?logo=itch.io)](https://yosef-ben-abraham.itch.io/toms-long-night)
-[![PICO-8](https://img.shields.io/badge/pico--8-v0.2.5+-00A6ED?logo=pico-8)](https://www.lexaloffle.com/pico-8.php)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-
 ![Gameplay GIF](assets/gameplay.gif)
 
 > *"The night is long, but fair. Every stomp is a choice. Every drop, an answer."*  
