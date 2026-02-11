@@ -2,6 +2,15 @@
 
 *All notable changes follow [Semantic Versioning](https://semver.org).*
 
+## [Unreleased]
+
+### Planned
+- Screen shake intensity tuning
+- Particle lifetime adjustments
+- Minor HUD polish
+
+---
+
 ## [1.0.0] — 2026-02-11 — Initial Release
 
 ### ✨ Features
@@ -33,12 +42,3 @@
 - Object pooling for particles/drops/enemies
 - Save high scores via `dset()`/`dget()`
 - Debug mode with CPU/mem/fps monitoring
-
----
-
-## [1.0.1] — Coming Soon
-
-### Planned
-- Screen shake intensity tuning
-- Particle lifetime adjustments
-- Minor HUD polish
