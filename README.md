@@ -2,10 +2,19 @@
 
 *A minimalist PICO-8 survival game where every stomp counts.*
 
-![Gameplay GIF](assets/gameplay.gif)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+![Gameplay preview](assets/placeholder.png)
 
 > *"The night is long, but fair. Every stomp is a choice. Every drop, an answer."*  
 > — Miyamoto-style design philosophy
+
+---
+
+## 🎮 Play Now
+
+- **PICO-8**: `load #toms_long_night` (cartridge ID)
+- **Download**: `toms_long_night.p8.png` → drag & drop into PICO-8
 
 ---
 
@@ -38,8 +47,8 @@ Survive the endless night by:
 
 ```bash
 # Clone repository
-git clone https://github.com/CarlosCFO/toms-long-night.git
+git clone https://github.com/yourname/toms-long-night.git
 cd toms-long-night
 
 # Open in PICO-8
-pico8 src/toms_long_night.p8
+pico8 toms_long_night.p8.png
